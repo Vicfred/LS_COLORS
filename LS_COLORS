@@ -265,6 +265,9 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .hpp                  38;5;110
 .hxx                  38;5;110
 .ii                   38;5;110
+#   D
+.d                    38;5;200
+.di                   38;5;200
 #   method file for Objective C
 .M                    38;5;110
 .m                    38;5;110
@@ -291,6 +294,9 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .F03                  38;5;81
 .f08                  38;5;81
 .F08                  38;5;81
+#   Ocaml
+.ml                   38;5;222
+.mli                  38;5;222
 # Nim
 .nim                  38;5;81
 .nimble               38;5;81
