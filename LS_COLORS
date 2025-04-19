@@ -215,8 +215,8 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .vim                  38;5;172            # Code (shell)
 .kak                  38;5;172            # Code (shell)
 .ahk                  38;5;41             # Code (interpreted) (AutoHotKey)
-.py                   38;5;41             # Code (interpreted) (Python)
-.ipynb                38;5;41             # Code (interpreted) (Python)
+.py                   38;5;28             # Code (interpreted) (Python)
+.ipynb                38;5;28             # Code (interpreted) (Python)
 .xsh                  38;5;41             # Code (interpreted) (xonsh)
 .rb                   38;5;41             # Code (interpreted) (ruby)
 .gemspec              38;5;41             # Code (interpreted) (ruby)
@@ -249,23 +249,24 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .eln                  38;5;241            # LISP (Emacs)
 .lua                  38;5;81             # Code (interpreted) (Lua)
 .moon                 38;5;81             # Code (interpreted) (Moonscript)
-.c                    38;5;81             # C
-.C                    38;5;81             # C
-.h                    38;5;110            # C headers
-.H                    38;5;110            # C headers
-.tcc                  38;5;110            # C headers
-.c++                  38;5;81             # C++
-.h++                  38;5;110            # C++ headers
-.hpp                  38;5;110            # C++ headers
-.hxx                  38;5;110            # C++ headers
-.ii                   38;5;110            # C++ headers
+.c                    38;5;21             # C
+.C                    38;5;21             # C
+.h                    38;5;21             # C headers
+.H                    38;5;21             # C headers
+.tcc                  38;5;21             # C headers
+.c++                  38;5;21             # C++
+.cpp                  38;5;21             # C++
+.cxx                  38;5;21             # C++
+.h++                  38;5;21             # C++ headers
+.hpp                  38;5;21             # C++ headers
+.hxx                  38;5;21             # C++ headers
+.ii                   38;5;21             # C++ headers
+.d                    38;5;196            # D language
 .M                    38;5;110            # Objective C method file
 .m                    38;5;110            # Objective C method file
 .cc                   38;5;81             # Csharp
 .cs                   38;5;81             # Csharp
 .cp                   38;5;81             # Csharp
-.cpp                  38;5;81             # Csharp
-.cxx                  38;5;81             # Csharp
 .cr                   38;5;81             # Crystal
 .go                   38;5;81             # Golang
 .f                    38;5;81             # Fortran
@@ -280,23 +281,23 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .F03                  38;5;81             # Fortran
 .f08                  38;5;81             # Fortran
 .F08                  38;5;81             # Fortran
-.nim                  38;5;81             # Nim
-.nimble               38;5;81             # Nim
+.nim                  38;5;226            # Nim
+.nimble               38;5;226            # Nim
 .s                    38;5;110            # Pascal
 .S                    38;5;110            # Pascal
-.rs                   38;5;81             # Code (compiled) (Rust)
+.rs                   38;5;223            # Code (compiled) (Rust)
 .scpt                 38;5;219            # AppleScript
 .swift                38;5;219            # Swift
 .sx                   38;5;81             # SimplexNumerica
 .vala                 38;5;81             # Vala
 .vapi                 38;5;81             # Vala
-.hi                   38;5;110            # Haskell
-.hs                   38;5;81             # Haskell
-.lhs                  38;5;81             # Haskell
-.ml                   38;5;81             # OCaml
-.mli                  38;5;110            # OCaml
-.mll                  38;5;81             # OCaml
-.mly                  38;5;81             # OCaml
+.hi                   38;5;55             # Haskell
+.hs                   38;5;55             # Haskell
+.lhs                  38;5;55             # Haskell
+.ml                   38;5;208            # OCaml
+.mli                  38;5;208            # OCaml
+.mll                  38;5;208            # OCaml
+.mly                  38;5;208            # OCaml
 .agda                 38;5;81             # Agda
 .lagda                38;5;81             # Agda
 .lagda.tex            38;5;81             # Agda
@@ -306,7 +307,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .zig                  38;5;81             # Zig
 .v                    38;5;81             # V
 .rego                 38;5;178            # Code (Rego)
-.pyc                  38;5;240            # Code (Python)
+.pyc                  38;5;28             # Code (Python)
 .tf                   38;5;168            # Code (Terraform)
 .tfstate              38;5;168            # Code (Terraform)
 .tfvars               38;5;168            # Code (Terraform)
@@ -348,7 +349,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .dockerignore         38;5;240            # Build process (Docker)
 *dune                 38;5;155            # Build process (OCaml Dune)
 *dune-project         38;5;243            # Build process (OCaml Dune)
-.opam                 38;5;240            # Build process (OCaml Opam)
+.opam                 38;5;208            # Build process (OCaml Opam)
 *Makefile             38;5;155            # Build process (Make)
 *MANIFEST             38;5;243            # Build process (Make)
 *pm_to_blib           38;5;240            # Build process (Perl)
@@ -546,7 +547,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .o                    38;5;241            # *nix Object file (shared libraries, core dumps etc)
 *core                 38;5;241            # Linux user core dump file (from /proc/sys/kernel/core_pattern)
 .mdump                38;5;241            # Mini DuMP crash report
-.rlib                 38;5;241            # Static rust library
+.rlib                 38;5;223            # Static rust library
 .dll                  38;5;241            # dynamic linked library
 .aria2                38;5;241            # state dumps
 .dump                 38;5;241            # state dumps
