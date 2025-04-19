@@ -281,8 +281,8 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .F03                  38;5;81             # Fortran
 .f08                  38;5;81             # Fortran
 .F08                  38;5;81             # Fortran
-.nim                  38;5;226            # Nim
-.nimble               38;5;226            # Nim
+.nim                  38;5;184            # Nim
+.nimble               38;5;184            # Nim
 .s                    38;5;110            # Pascal
 .S                    38;5;110            # Pascal
 .rs                   38;5;216            # Code (compiled) (Rust)
