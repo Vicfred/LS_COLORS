@@ -215,8 +215,8 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .vim                  38;5;172            # Code (shell)
 .kak                  38;5;172            # Code (shell)
 .ahk                  38;5;41             # Code (interpreted) (AutoHotKey)
-.py                   38;5;28             # Code (interpreted) (Python)
-.ipynb                38;5;28             # Code (interpreted) (Python)
+.py                   38;5;34             # Code (interpreted) (Python)
+.ipynb                38;5;34             # Code (interpreted) (Python)
 .xsh                  38;5;41             # Code (interpreted) (xonsh)
 .rb                   38;5;41             # Code (interpreted) (ruby)
 .gemspec              38;5;41             # Code (interpreted) (ruby)
@@ -307,7 +307,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .zig                  38;5;81             # Zig
 .v                    38;5;81             # V
 .rego                 38;5;178            # Code (Rego)
-.pyc                  38;5;28             # Code (Python)
+.pyc                  38;5;34             # Code (Python)
 .tf                   38;5;168            # Code (Terraform)
 .tfstate              38;5;168            # Code (Terraform)
 .tfvars               38;5;168            # Code (Terraform)
