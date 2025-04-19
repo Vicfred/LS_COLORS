@@ -291,9 +291,9 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .sx                   38;5;81             # SimplexNumerica
 .vala                 38;5;81             # Vala
 .vapi                 38;5;81             # Vala
-.hi                   38;5;56             # Haskell
-.hs                   38;5;56             # Haskell
-.lhs                  38;5;56             # Haskell
+.hi                   38;5;99             # Haskell
+.hs                   38;5;99             # Haskell
+.lhs                  38;5;99             # Haskell
 .ml                   38;5;208            # OCaml
 .mli                  38;5;208            # OCaml
 .mll                  38;5;208            # OCaml
