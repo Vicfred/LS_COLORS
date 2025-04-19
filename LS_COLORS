@@ -285,7 +285,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .nimble               38;5;226            # Nim
 .s                    38;5;110            # Pascal
 .S                    38;5;110            # Pascal
-.rs                   38;5;223            # Code (compiled) (Rust)
+.rs                   38;5;216            # Code (compiled) (Rust)
 .scpt                 38;5;219            # AppleScript
 .swift                38;5;219            # Swift
 .sx                   38;5;81             # SimplexNumerica
@@ -547,7 +547,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .o                    38;5;241            # *nix Object file (shared libraries, core dumps etc)
 *core                 38;5;241            # Linux user core dump file (from /proc/sys/kernel/core_pattern)
 .mdump                38;5;241            # Mini DuMP crash report
-.rlib                 38;5;223            # Static rust library
+.rlib                 38;5;216            # Static rust library
 .dll                  38;5;241            # dynamic linked library
 .aria2                38;5;241            # state dumps
 .dump                 38;5;241            # state dumps
