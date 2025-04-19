@@ -254,13 +254,13 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .h                    38;5;21             # C headers
 .H                    38;5;21             # C headers
 .tcc                  38;5;21             # C headers
-.c++                  38;5;21             # C++
-.cpp                  38;5;21             # C++
-.cxx                  38;5;21             # C++
-.h++                  38;5;21             # C++ headers
-.hpp                  38;5;21             # C++ headers
-.hxx                  38;5;21             # C++ headers
-.ii                   38;5;21             # C++ headers
+.c++                  38;5;33             # C++
+.cpp                  38;5;33             # C++
+.cxx                  38;5;33             # C++
+.h++                  38;5;33             # C++ headers
+.hpp                  38;5;33             # C++ headers
+.hxx                  38;5;33             # C++ headers
+.ii                   38;5;33             # C++ headers
 .d                    38;5;196            # D language
 .M                    38;5;110            # Objective C method file
 .m                    38;5;110            # Objective C method file
